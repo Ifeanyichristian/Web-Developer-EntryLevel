@@ -579,7 +579,7 @@
             </div>
             <div id="section3_card">
                 <div id="section3_card_img">
-                        <img src="ifeanyi-img/bookshop.png" width="100%" height="100%" />
+                        <img src="ifeanyi-img/bookshop.PNG" width="100%" height="100%" />
                 </div>
                 <div id="section3_card_text">
                         Bookshop solution(web solution)
@@ -591,7 +591,7 @@
             </div>
             <div id="section3_card">
                     <div id="section3_card_img">
-                            <img src="ifeanyi-img/elibrary.png" width="100%" height="100%" />
+                            <img src="ifeanyi-img/elibrary.PNG" width="100%" height="100%" />
                     </div>
                     <div id="section3_card_text">
                            E-library(web solution)
@@ -602,7 +602,7 @@
             </div>
             <div id="section3_card">
                     <div id="section3_card_img">
-                            <img src="ifeanyi-img/makecv.png" width="100%" height="100%" />
+                            <img src="ifeanyi-img/makecv.PNG" width="100%" height="100%" />
                     </div>
                     <div id="section3_card_text">
                             Careerio(cv website)
@@ -613,7 +613,7 @@
             </div>
             <div id="section3_card">
                     <div id="section3_card_img">
-                            <img src="ifeanyi-img/ponzi.png" width="100%" height="100%" />
+                            <img src="ifeanyi-img/ponzi.PNG" width="100%" height="100%" />
                     </div>
                     <div id="section3_card_text">
                            Wisewealth(ponzi website)
